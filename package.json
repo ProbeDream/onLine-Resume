@@ -1,0 +1,25 @@
+{
+  "name": "onLine-Resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieSmith97/onLine-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieSmith97/onLine-Resume/issues"
+  },
+  "homepage": "https://github.com/CharlieSmith97/onLine-Resume#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.2",
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.17.3"
+  }
+}
