@@ -6,7 +6,7 @@ $border-Color:#ccc;
 * {margin: 0;padding: 0;box-sizing: border-box;}
 a{text-decoration: none;color: #000000;
  &:hover{
-     color: #a2a8d3;
+     color: $title-Color;
  }
 }
 .high-light{color: #f8a978;border-radius: 5px;background: #dadddf;}
